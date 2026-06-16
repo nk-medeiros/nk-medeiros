@@ -2,7 +2,7 @@
 
 <h3>👧💻 Sobre Mim</h3>
 <p>
-Tenho 19 anos e sou estudante de <strong>Ciência da Computação</strong> (1º período) 
+Tenho 20 anos e sou estudante de <strong>Ciência da Computação</strong> (1º período) 
 e técnica em <strong>Desenvolvimento de Sistemas</strong>.  
 Atualmente estou me especializando em <strong>Desenvolvimento Web Full Stack</strong> 
 e buscando constante aprimoramento na área de <strong>Tecnologia da Informação</strong>.
