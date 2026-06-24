@@ -61,15 +61,15 @@ e buscando constante aprimoramento na área de <strong>Tecnologia da Informaçã
 
 <h3>📊 Estatísticas do GitHub</h3>
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=nayara1505&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=nk-medeiros&show_icons=true&theme=radical)
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=nayara1505&layout=compact&theme=radical)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=nk-medeiros&layout=compact&theme=radical)
 
 <h3>🔗 Conecte-se Comigo</h3>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nayarakarla1310@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nayara1505)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nk-medeiros)
 
 <h3>📄 Licença</h3>
 <p>
