@@ -10,7 +10,7 @@ e buscando constante aprimoramento na área de <strong>Tecnologia da Informaçã
 
 <h3>🚀 Foco Atual</h3>
 <ul>
-  <li><strong>Linguagens:</strong> C, HTML, CSS, JavaScript e PHP</li>
+  <li><strong>Linguagens:</strong> C, Python, HTML, CSS, JavaScript e PHP</li>
   <li>Introdução à Segurança da Informação</li>
   <li>Introdução à Programação de Computadores</li>
   <li>Fundamentos de Redes de Computadores</li>
