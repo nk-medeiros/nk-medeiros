@@ -10,13 +10,17 @@ Estou me especializando em **Desenvolvimento Web Full Stack** e focando em aperf
 
 * 🎯 **Objetivo:** Busco oportunidades como **Desenvolvedora Júnior** ou **Estagiária em TI**.
 * 📍 **Localização:** Recife – PE, Brasil.
-* ✉️ **Contato:** nayarakarla1310@gmail.com
+* ✉️ **Contato:** nayaramedeiros2006@gmail.com
 
 ---
 
 ### 🚀 Foco Atual de Estudos
 * **Linguagens:** C, Python, HTML, CSS, JavaScript e PHP
-* **Fundamentos:** Desenv. Web em HTML5, CSS, JavaScript e PHP, Engenharia de Software, Protocolos de Rede de Computadores, Paradigmas de Linguagem de Programação em Python e Arquitetura de Computadores.
+* **Desenv. Web em HTML5, CSS, JavaScript e PHP**
+* **Engenharia de Software**
+* **Protocolos de Rede de Computadores**
+* **Paradigmas de Linguagem de Programação em Python**
+* **Arquitetura de Computadores**
 
 ---
 
@@ -44,10 +48,20 @@ Estou me especializando em **Desenvolvimento Web Full Stack** e focando em aperf
 ### 🔗 Conecte-se Comigo
 
 <p>
-  <a href="mailto:nayarakarla1310@gmail.com">
+  <a href="mailto:nayaramedeiros2006@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://github.com/nk-medeiros">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+</p>
+
+---
+
+### 📄 Licença
+<p>
+Este perfil e projetos estão sob a Licença MIT.
+<a href="https://opensource.org/licenses/MIT" target="_blank">
+  <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="Licença MIT" />
+</a>
 </p>
