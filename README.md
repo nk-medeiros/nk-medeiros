@@ -10,7 +10,7 @@ Estou me especializando em **Desenvolvimento Web Full Stack** e focando em aperf
 
 * 🎯 **Objetivo:** Busco oportunidades como **Desenvolvedora Júnior** ou **Estagiária em TI**.
 * 📍 **Localização:** Recife – PE, Brasil.
-* ✉️ **Contato:** nayaramedeiros2006@gmail.com
+* ✉️ **Contato:** nayarakarla1310@gmail.com
 
 ---
 
